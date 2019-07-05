@@ -73,7 +73,7 @@ window.onload = function() {
       if (gameOver == false) {
         if (turn % 2 != 0) {
           var sean_image = new Image();
-          sean_image.src = "sean.png";
+          sean_image.src = "./sean.png";
           sean_image.onload = function() {
             ctx.drawImage(sean_image, -43, -26);
           };
@@ -82,7 +82,7 @@ window.onload = function() {
         } else {
           //if number is even (O player)
           var square_svg = new Image();
-          square_svg.src = "square.svg";
+          square_svg.src = "./square.svg";
           square_svg.onload = function() {
             ctx.drawImage(square_svg, 8.5, 8.5);
           };
