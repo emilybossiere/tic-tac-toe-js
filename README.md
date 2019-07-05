@@ -9,7 +9,7 @@ Tic Tac Toe requires the following to run:
 - ```http-server``` package from npm
 
 ## Running the App
-Play the game [here](https://emilybossiere.github.io/tic-tac-toe-js/), or follow these steps:
+**Play the game [here](https://emilybossiere.github.io/tic-tac-toe-js/)**, or follow these steps:
 
 Install Node, then install the ```http-server``` package.
 
