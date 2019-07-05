@@ -1,0 +1,52 @@
+body {
+  background: azure;
+  font-family: 'Nunito', sans-serif;
+  font-weight: light;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+li {
+  font-size: 1.4rem;
+  margin: 15px;
+}
+
+canvas {
+  background-color: pink;
+  border: 1px solid black;
+  margin-left: 3px;
+  transition: 0.2s;
+}
+
+canvas:hover {
+  opacity: 0.5;
+}
+
+
+.btn {
+	margin-top: 15px;
+}
+
+
+#head {
+	font-size: 50px;
+	letter-spacing: -1px;
+  margin: 10px;
+}
+
+#result {
+	color: green;
+}
+
+
+#rules {
+	margin-top: 30px;
+}
+
+#tic {
+	margin-top: 30px;
+  
+}
+
