@@ -24,5 +24,6 @@ To play the game, simply go to http://localhost:8080
 
 ## Features
 - Responsive layout
-- User vs. User functionality
-- Undo button to undo the last move made by the current player
+- User vs. user functionality
+- Undo button to undo the last move made by the current player that disables once game is done
+- New game button that can be used at any time
